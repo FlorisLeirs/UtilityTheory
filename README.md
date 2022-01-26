@@ -22,7 +22,7 @@ This is simply a normalization of the value. This is the most straight-forward, 
 ### Quadratic
 With a quadratic equation slope rises along with your variable.
 
-![quadratic equation](http://www.sciweavers.org/tex2img.php?eq=U%20%3D%20%20%28%5Cfrac%7Bvalue%7D%7BmaxValue%7D%29%20%20%5E%7Bexp%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
+![quadratic equation](https://user-images.githubusercontent.com/49953730/151238064-441453ed-5a62-429b-9177-ce8b53a76670.png)
 
 <img src="https://user-images.githubusercontent.com/49953730/151134127-2ab3013b-e9ec-4c27-8461-efe691d4c38e.png" width ="500" height="500"/>
 
